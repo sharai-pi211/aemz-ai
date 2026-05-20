@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Кожа головы: шампунь от перхоти и зуда",
+    "request": {
+      "category": "волосы",
+      "product_type": "шампунь",
+      "target_area": "кожа головы",
+      "skin_type": "чувствительная",
+      "concerns": [
+        "перхоть",
+        "зуд",
+        "шелушение"
+      ],
+      "desired_effects": [
+        "очищение",
+        "снятие раздражения"
+      ],
+      "allergies": [],
+      "avoid_ingredients": []
+    }
+  },
+  {
+    "name": "Лицо: крем для сухой кожи",
+    "request": {
+      "category": "лицо",
+      "product_type": "крем",
+      "target_area": "лицо",
+      "skin_type": "сухая",
+      "concerns": [
+        "сухость",
+        "шелушение"
+      ],
+      "desired_effects": [
+        "увлажнение",
+        "питание"
+      ],
+      "allergies": [
+        "прополис"
+      ],
+      "avoid_ingredients": [
+        "отдушки"
+      ]
+    }
+  },
+  {
+    "name": "Лицо: проблемная жирная кожа",
+    "request": {
+      "category": "лицо",
+      "product_type": "тоник",
+      "target_area": "лицо",
+      "skin_type": "жирная",
+      "concerns": [
+        "акне",
+        "высыпания",
+        "воспаления"
+      ],
+      "desired_effects": [
+        "очищение",
+        "антибактериальный эффект"
+      ],
+      "allergies": [],
+      "avoid_ingredients": []
+    }
+  },
+  {
+    "name": "Тело: чувствительная кожа и сухость",
+    "request": {
+      "category": "тело",
+      "product_type": "лосьон",
+      "target_area": "тело",
+      "skin_type": "чувствительная",
+      "concerns": [
+        "сухость",
+        "раздражение"
+      ],
+      "desired_effects": [
+        "увлажнение",
+        "смягчение"
+      ],
+      "allergies": [],
+      "avoid_ingredients": [
+        "эфирные масла"
+      ]
+    }
+  }
+]
